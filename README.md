@@ -9,12 +9,12 @@ Backend engineer by day, side project collector by night.
 
 ## Projects
 
-- **[HybridRL-FlightControl](https://github.com/lucasctl/HybridRL-FlightControl)** — Safe autopilot using hybrid reinforcement learning
-- **[rust-monkey-interpreter](https://github.com/lucasctl/rust-monkey-interpreter)** — Interpreter for the Monkey language, written in Rust
-- **[proot](https://github.com/lucasctl/proot)** — CLI to visualize PR dependency graphs
-- **[papyrus](https://github.com/lucasctl/papyrus)** — Generate OpenAPI docs from a Pyramid project
-- **[pips-flight](https://github.com/lucasctl/pips-flight)** — A game built in 10 days
-- **[advent-of-code](https://github.com/lucasctl?tab=repositories&q=advent-of-code)** — Annual puzzle solutions in Python, Rust, and Go
+- 🤖 **[HybridRL-FlightControl](https://github.com/lucasctl/HybridRL-FlightControl)** — Safe autopilot using hybrid reinforcement learning
+- 🐒 **[rust-monkey-interpreter](https://github.com/lucasctl/rust-monkey-interpreter)** — Interpreter for the Monkey language, written in Rust
+- 🌿 **[proot](https://github.com/lucasctl/proot)** — CLI to visualize PR dependency graphs
+- 📄 **[papyrus](https://github.com/lucasctl/papyrus)** — Generate OpenAPI docs from a Pyramid project
+- 🕹️ **[pips-flight](https://github.com/lucasctl/pips-flight)** — A game built in 10 days
+- 🎄 **[advent-of-code](https://github.com/lucasctl?tab=repositories&q=advent-of-code)** — Annual puzzle solutions in Python, Rust, and Go
 
 ## Connect
 
